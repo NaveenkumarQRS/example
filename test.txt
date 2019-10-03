@@ -1,2 +1,6 @@
 hi welcome to qrs
+<<<<<<< HEAD
 thank you
+=======
+good eve
+>>>>>>> stage
